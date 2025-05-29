@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'DCristo Play',
+const CACHE_NAME = 'To Do',
   urlsToCache = [
     './',
     './index.php',
