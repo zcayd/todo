@@ -29,9 +29,6 @@ Satisfy all
 # No permitir ver los directorios
 Options -Indexes
 
-#Carga tu propia página de error 404
-ErrorDocument 404 https://dcristoplay.ml/404.php
-
 
 #Cache de imágenes en el navegador durante un mes
 #<FilesMatch "\.(ico|jpg|jpeg|png|gif|webp)$">
